@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{index.html}
+
+= Xusong Chen (陈旭松)
+
+{{<table class="imgtable"><tr>
+<td><img src="avatar.png" alt="alt text" height="175px"/></td>
+<td align="left"><p>I was admitted to <a href="http://www.ustc.edu.cn/"> University of Science and Technology of China</a> in 2016 as a Ph.D. student, advised by Prof. <a href="http://staff.ustc.edu.cn/~dongeliu/"> Dong Liu</a> and expected to graduate in 2021. Before that, I received my Bachelor of Engineering degree in Computer Science from <a href="http://www.xahu.edu.cn/"> Chang'An  University</a> .
+<br/>
+<p/>
+Email: cxs2016 AT mail.ustc.edu.cn <br/>
+Postal address: Dept. EEIS, No.443 Huangshan Road, Hefei 230027, Anhui, China <br/>
+Office: Room 1115, West Tower of Twins Buildings, West Campus of USTC </p>
+</td></tr></table>}}
+
+{{<a id="interests"></a>}}
+== Research Interests
+My interests concentrate on machine learning (especially deep learning) and its applications to Recommendation System.
+
+
+{{<a id="papers"></a>}}
+== Publications
+- *Xusong Chen*, Dong Liu, Zheng-Jun Zha, Wengang Zhou, Zhiwei Xiong, Yan Li, *Temporal Hierarchical Attention at Category- and Item-Level for Micro-Video Click-Through Prediction*, /accepted by ACM International Conference on Multimedia (MM'18)./[papers/mm18_chen_thacil.pdf \[PDF\]] [https://github.com/Ocxs/THACIL \[Code\]].
+
+- *Xusong Chen*, Rui Zhao, Shengjie Ma, Dong Liu, Zheng-Jun Zha, *Content-based video relevance prediction with second-order relevance and attention modeling*, /accepted by ACM International Conference on Multimedia (MM'18 challenge)./[papers/mm18_chen_cbvrp.pdf \[PDF\]].
+
+
+{{<a name="experience"></a>}}
+== Experience
+
+- Research Intern, Institute of Information Engineering, CAS, Jul.2015-Aug.2015.
+
+
+
