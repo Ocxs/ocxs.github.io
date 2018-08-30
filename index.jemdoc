@@ -4,7 +4,7 @@
 
 {{<table class="imgtable"><tr>
 <td><img src="avatar.png" alt="alt text" height="175px"/></td>
-<td align="left"><p>I was admitted to <a href="http://www.ustc.edu.cn/"> University of Science and Technology of China</a> in 2016 as a Ph.D. student, advised by Prof. <a href="http://staff.ustc.edu.cn/~dongeliu/"> Dong Liu</a> and expected to graduate in 2021. Before that, I received my Bachelor of Engineering degree in Computer Science from <a href="http://www.xahu.edu.cn/"> Chang'An  University</a> .
+<td align="left"><p>I was admitted to <a href="http://www.ustc.edu.cn/"> University of Science and Technology of China</a> in 2016 as a Ph.D. student, advised by Prof. <a href="http://staff.ustc.edu.cn/~dongeliu/"> Dong Liu</a> and expected to graduate in 2021. Before that, I received my B.E. degree in Computer Science from <a href="http://www.xahu.edu.cn/"> Chang'An  University</a> .
 <br/>
 <p/>
 Email: cxs2016 AT mail.ustc.edu.cn <br/>
@@ -15,6 +15,13 @@ Office: Room 1115, West Tower of Twins Buildings, West Campus of USTC </p>
 {{<a id="interests"></a>}}
 == Research Interests
 My interests concentrate on machine learning (especially deep learning) and its applications to Recommendation System.
+
+{{<a id="honors"></a>}}
+== Honors
+- The First Prize Scholarship, USTC, 2017
+- The First Prize Scholarship, USTC, 2016
+- Excellent Undergraduate Dissertation, Chang'An University, 2016
+- Excellent Student Scholarship, Chang'An University, 2013-2015
 
 
 {{<a id="papers"></a>}}
