@@ -18,17 +18,22 @@ My interests concentrate on machine learning (especially deep learning) and its 
 
 {{<a id="honors"></a>}}
 == Honors
-- The First Prize Scholarship, USTC, 2017
-- The First Prize Scholarship, USTC, 2016
+- Graduate Student Scholarship (First Class), USTC, 2017
+- Graduate Student Scholarship (First Class), USTC, 2016
 - Excellent Undergraduate Dissertation, Chang'An University, 2016
 - Excellent Student Scholarship, Chang'An University, 2013-2015
 
 
 {{<a id="papers"></a>}}
 == Publications
-- *Xusong Chen*, Dong Liu, Zheng-Jun Zha, Wengang Zhou, Zhiwei Xiong, Yan Li, *Temporal Hierarchical Attention at Category- and Item-Level for Micro-Video Click-Through Prediction*, /accepted by ACM International Conference on Multimedia (MM'18)./[papers/mm18_chen_thacil.pdf \[PDF\]] [https://github.com/Ocxs/THACIL \[Code\]].
+- Temporal Hierarchical Attention at Category- and Item-Level for Micro-Video Click-Through Prediction\n
+*Xusong Chen*, Dong Liu, Zheng-Jun Zha, Wengang Zhou, Zhiwei Xiong, Yan Li\n
+accepted by ACM International Conference on Multimedia (*MM*), 2018.
 
-- *Xusong Chen*, Rui Zhao, Shengjie Ma, Dong Liu, Zheng-Jun Zha, *Content-based video relevance prediction with second-order relevance and attention modeling*, /accepted by ACM International Conference on Multimedia (MM'18 challenge)./[papers/mm18_chen_cbvrp.pdf \[PDF\]].
+- Content-based video relevance prediction with second-order relevance and attention modeling\n
+*Xusong Chen*, Rui Zhao, Shengjie Ma, Dong Liu, Zheng-Jun Zha\n
+accepted by ACM International Conference on Multimedia (*MM*)(Grand Challenge), 2018.
+
 
 
 {{<a name="experience"></a>}}
